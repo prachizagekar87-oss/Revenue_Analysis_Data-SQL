@@ -5,7 +5,7 @@ Analyzed business revenue data using SQL to calculate key metrics such as revenu
 
 ##  Tools Used
 - SQL (MySQL)
-
+- MySQL Workbench
 ##  Key Analysis
 - Total Revenue, Profit, and Cost calculation
 - Profit Margin Analysis
